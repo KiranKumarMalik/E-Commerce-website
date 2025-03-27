@@ -3,17 +3,17 @@ Full Stack ecommerce website with postgres authentication  based on reactjs and 
 
 # 1. Home Page
 
-![home](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/home.png)
+![home](https://github.com/KiranKumarMalik/E-Commerce-website/blob/9833c1a7c0ff60ab717e5dfdc63edcecf36ae003/ss/Screenshot%202025-03-27%20214606.png)
 
 
-# 2. Car Page
+# 2. Product Page
 
-![car](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/car.png)
+![car](https://github.com/KiranKumarMalik/E-Commerce-website/blob/9833c1a7c0ff60ab717e5dfdc63edcecf36ae003/ss/Screenshot%202025-03-27%20214623.png)
 
 # 3. About Page
 
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/about.png)
+![about](https://github.com/KiranKumarMalik/E-Commerce-website/blob/9833c1a7c0ff60ab717e5dfdc63edcecf36ae003/ss/Screenshot%202025-03-27%20214637.png)
 
-# 4. Services Page
+# 4. Contact Page
 
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/services.png)
+![about](https://github.com/KiranKumarMalik/E-Commerce-website/blob/9833c1a7c0ff60ab717e5dfdc63edcecf36ae003/ss/Screenshot%202025-03-27%20214654.png)
